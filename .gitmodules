@@ -1,4 +1,4 @@
 [submodule "libtex/src/main/jni/tex"]
 	path = libtex/src/main/jni/tex
-	url = git@github.com:NanoMichael/cLaTeXMath.git
+	url = https://github.com/NanoMichael/cLaTeXMath.git
 	shallow = true
